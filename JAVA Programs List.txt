@@ -1,0 +1,128 @@
+**Basic Programs**
+
+1] WAJP to identify whether the given no. is even or odd.
+2] WAJP to check whether the given character is uppercase or lowercase.
+3] WAJP to check if the given character is an alphabet, digit, or special character.
+4] WAJP to print "hi" if the given number is divisible by 3, print hello if the given number is divisible by 5, and print "hi" or "hello" if the given number is divisible by 3 or 5. print by if the given number is not divisible by either 3/5. 
+
+
+**Number Series Programs**
+
+1] WAJP to extract the last digit from the given number.
+2] WAJP to remove the last digit from the number.
+3] WAJP to count the number of digits in the given number.
+4] WAJP to identify the sum of digits. 
+5] WAJP to identify the average of digits present in a number
+6] WAJP to identify the smallest digit in a number.
+7] WAJP to identify the largest digit in a number.
+8] WAJP to create a method that returns the given number as even or odd.
+9] WAJP to create a method that returns the given number as +ve or -ve.
+10]WAJP to define a method that returns the area of a rectangle.
+11]WAJP to define a method that returns the area of a circle.
+12]WAJP to calculate simple Interest.((principle*rate*time)/100).
+13]WAJP to reverse the given number.
+14]WAJP will check the given number, which is a palindrome.
+15]WAJP to identify the factors of a given number.
+16]WAJP to sum of a factor of a given number.
+17]WAJP to identify the avg of a factor of a given number.
+18]WAJP to identify the factorial of a given number.
+19]WAJP to check whether the given number is a perfect number or not.
+(Note: A Perfect number means the sum of a factor of numbers, except the given number should be equal to the given number)
+20] WAJP to check given number is a strong number or weak number. (Note: The summation of each digit factorial will be equal to the given no. Then we call it as Strong no.)
+21] WAJP to check whether the given number is prime no. or not. (Note: The no. which is divisible by 1 & itself is known as Prime No.) 
+22] WAJP to print the prime no from the given range.
+23] WAJP to check whether the given no is a perfect square or not.
+24] WAJP to check whether the given no. is neon or not.(the no. which is given make a square of it & identify the sum of digits of square no. & check the sum of digits equals the givenno.)
+25]WAJP to check whether the given no. is sunny. or not. (Take anyone no. add 1 to it,& check if it is a perfect square or not if yes then it's sunny no. else not) 
+26] WAJP to check whether given no. is xylem or Phloem. ( The sum of 1st digit and last digit will be equal to the sum of the middle digits then it is xylem else phloem)
+27]WAJP to check given no. is happy no. or sad no. (if the sum of each digit square is equal to one then it's a happy number, if the sum of each digit square equals 4 then it's sad no.)
+
+
+*Array Programs*
+
+* Array is a predefined class present in Java.lang package.
+* It's considered as a non-primitive datatype in Java.
+* An array is a continuous block of memory that is used to store multiple values or data.
+* It's a collection of homogenous elements.
+* array is fixed size in nature.
+* Whenever we create an array object mentioning/assigning datatype and passing size is mandatory.
+* By default in an array object the default value of the datatype is stored.
+* To store and access an element from an array, we need an array reference variable and an index
+* (Array Ref. Var- a variable which stores the address of an array object is known as 'Array Ref.Var)
+* (Index - It's a +ve integer no. which starts with zero.)
+[Note: to store multiple values, we need to create an array object. We can create an array object in two ways: 1] using the new keyword and  2] without using the new keyword.]
+
+
+1]WAJP to store the elements in an array and access the elements one by one. (Note: Make use of the Scanner class to request the data from the end user.)
+2]WAJP to access the even elements from an array.
+3]WAJP to access the odd elements from an array.
+4]WAJP to identify the sum of elements present in the array.
+5]WAJP to identify the average of elements in an array.
+6]WAJP to identify the average of odd elements from an array.
+7]WAJP to identify the count number of +ve and -ve elements.
+8]WAJP to Print The elements divisible by 5 from an array.
+9]WAJP to print the elements which is present in even index.
+10]WAJP To reverse the given array.
+11]WAJP to search an element in an array.
+12]WAJP to Swap the numbers.
+13]WAJP to Swap the numbers Without using 3rd variable.
+14]WAJP to check whether the string is a palindrome or not.
+15]WAJP to identify the smallest element in an array.
+16]WAJP to identify the largest element from an array.
+17]WAJP to identify the highest sum of 2 numbers in an array
+18]WAJP to reverse each element in an array.
+19]WAJP to find a pair of elements that is equal to the given number/sum of two elements equal to the given no.
+20]WAJP to find out the 2nd largest element from an array.
+21]WAJP to find 3rd largest value from an array.
+22]WAJP to remove the duplicate.
+23]WAJP to print a duplicate element.
+24]WAJP to print the frequency of each element.
+25]WAJP to print the frequency of duplicate elements.
+26]WAJP to merge two arrays.
+27]WAJP to insert an element in a specified position.
+28]WAJP to insert an element in a specified position without losing the data.
+29]WAJP to remove the element from the specified position.
+30]WAJP to print the prime elements from an array.
+31]WAJP to print the element in zigzag.
+32]WAJP to identify a missing element in an array.
+33]WAJP is used to check if one array is a subset of another array.
+34]WAJP to swap 1st half array with 2nd half of array.
+35]WAJP to sort the elements in an array.
+36]WAJP to accessing the element of array using built in method of Arrays class that is toString() method.
+37]WAJP to sort array in BubbleSort.
+38]WAJP to define a method which returns sum of elements inan array.
+39]WAJP to define a method which return the even elementsfrom an array.
+
+
+*String Programs*
+
+*It's a predefined final class present in java.lang package.
+*It's a group of characters which is enclosed within " ".
+*Anything which is written in " " is a string.
+*String is predefined non-primitive datatype
+
+1]WAJP to convert the GIven string into lowercase.
+2]WAJP to convert the given string into lowercase without using builtin method.
+3]WAJP to convert the given string  into uppercase without using builtin method.
+4]WAJp to identify the sum of given digits from given string.
+5]WAJP to count the the no. of vowels, consonant, digit , special characters.
+6]WAJP to count the no. of spaces present in given string.
+7]WAJP to convert  the even index character in to uppercase.
+8]WAJP to convert th eodd index character to uppercase.
+9]WAJP to remove the spaces from the given String.
+10]WAJP to count the words present in given string.
+11]WAJP to remove the vowels from the given string.
+12]WAJp to count the no.char present in each word.
+13]WAJP to print even no. of words from a given string.
+14]WAJP to print the number of charcters of each word along with the word
+15]WAJP To convert Each word Initial letter in UpperCase.
+16]WAJP to count the character present in given String.
+17]WAJP to print the duplicate charcters from string.
+18]WAJP remove the duplicates from the given string.
+19]WAJP to print the reverse string.
+20]WAJP check given string is anagram or not.
+21]WAJP To check that given string is Pangram or not.
+22]WAJP To check given string is palindrome or not.
+23]WAJP To print the largest and smallest words .
+24]WAJP to remove the extra spaces to the string.
+25]WAJP to print repeated words in a string.
