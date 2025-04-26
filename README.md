@@ -1,4 +1,4 @@
-#Table of Contents
+##Table of Contents
 
 This repository is perfect for anyone looking to learn or practice Java, from beginners to intermediate programmers. It includes a variety of programs across different categories:-
 
